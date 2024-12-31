@@ -56,7 +56,7 @@ The clustering of customers to their respective depots is shown below:
 ## Optimal Routing for a Depot
 An example of an optimal route for Depot 1:
 
-![Depot 1 Route](images/epot-1-route.png)
+![Depot 1 Route](images/depot-1-route.png)
 
 ---  
 
