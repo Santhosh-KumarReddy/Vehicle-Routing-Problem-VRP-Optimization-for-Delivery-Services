@@ -40,10 +40,23 @@ The dataset incorporates customer and depot locations, along with the number of 
 
 ---
 
-## Images and Graphs  
+## Web Interface
+Below are the screenshots of the web interface designed for delivery personnel:
 
-### Example Analysis  
-Include performance-related images or screenshots here if available.  
+### Web Interface Overview
+![Web Interface 1](images/webUI-1.png)
+
+![Web Interface 2](images/webUI-2.png)
+
+## Clustering Visualization
+The clustering of customers to their respective depots is shown below:
+
+![Customer Clustering](images/clustering.png)
+
+## Optimal Routing for a Depot
+An example of an optimal route for Depot 1:
+
+![Depot 1 Route](images/epot-1-route.png)
 
 ---  
 
